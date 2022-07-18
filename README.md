@@ -9,3 +9,6 @@ As we all know human brains are unique creation of the world. It can do complex 
 So in short we need programming languages to communicate with the technologies we have with us.
 +
 “Everybody in this country should learn to program a computer, because it teaches you how to think” - Steve Jo.
+
+
+
